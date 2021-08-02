@@ -6,5 +6,6 @@ Patches:
 - attachaside
 - barpadding
 - restartsig
-- uselessgap
 - xresources
+- fullgaps
+- centeredwindowname
